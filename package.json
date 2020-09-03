@@ -1,0 +1,17 @@
+{
+  "name": "cypressautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "author": "Daniel",
+  "license": "ISC",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^1.8.0",
+    "cypress": "^4.12.1",
+    "cypress-cucumber-preprocessor": "^2.5.5"
+  }
+  
+}
